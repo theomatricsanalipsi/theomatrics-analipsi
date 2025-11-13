@@ -11,10 +11,10 @@ export default function Home() {
             <div className="relative z-10">
               <div>
                 <h1 className="text-2xl lg:text-4xl font-semibold text-slate-800 mb-2 tracking-tight">
-                  THEOMETRICS
+                  THEOMETRICS ΑΝΑΛΗΨΗ 
                 </h1>
                 <h2 className="text-lg lg:text-xl text-blue-700 font-medium mb-3">
-                  ΑΝΑΛΗΨΗ ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.
+                  ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.
                 </h2>
                 <div className="flex items-center space-x-2 text-slate-600">
                   <div className="w-2 h-2 bg-blue-500 rounded-full"></div>
